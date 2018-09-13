@@ -1,4 +1,5 @@
-today = time.new
+today = Time.now 
+
 if  today.wednesday? 
     puts "salimos mas temprano"
  elsif today.sunday? 

@@ -1,13 +1,11 @@
 numero = 1
-numero2 = 10
 
-if numero/2 = 0
- puts "es par" 
- if numero/2 =1  
-  puts "es impar"
+#numero2 = 10
+
+if numero 
+numero/ 2= 0
+ 
   end 
   
-  while numero <numero2 
-   numero =+1 
-  end
+ 
   

@@ -1,15 +1,15 @@
 print "ingrese un numero: " 
 n = Integer(gets.chomp) 
  
-while n > 1 
+while n > 1
 
     if n % 2 != 0 
-        n = n - 2 
-        puts n "par"
+      
+        puts  "es inpar #{n}"
    
     else 
-        n = n - 1 
-        puts n "inpar"
+       
+      puts  "es par #{n}"
     
     end 
 end 
