@@ -4,7 +4,7 @@ class Pet
     def to_s
     puts "Nombre: #{name},Edad: #{age}, Genero: #{gender}, Color: #{color}"
     #Se pasan los valores al metodo 
-    end
+    end 
 end
 
 
